@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Organic Spirulina Powder",
+    "price": 15.99,
+    "category": "powders",
+    "description": "Nutrient-rich blue-green algae packed with protein, vitamins, and minerals. Perfect for smoothies and health drinks.",
+    "image": "/images/spirulina.jpg",
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": 2,
+    "name": "Organic Maca Powder",
+    "price": 12.99,
+    "category": "powders",
+    "description": "Peruvian superfood known for energy and hormone balance. Great for smoothies and baking.",
+    "image": "/images/maca.jpg",
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": 3,
+    "name": "Organic Chia Seeds",
+    "price": 9.99,
+    "category": "seeds",
+    "description": "High in omega-3 fatty acids and fiber. Perfect for puddings and smoothies.",
+    "image": "/images/chia.jpg",
+    "inStock": true,
+    "featured": false
+  },
+  {
+    "id": 4,
+    "name": "Organic Hemp Seeds",
+    "price": 14.99,
+    "category": "seeds",
+    "description": "Complete protein source with all essential amino acids. Nutty flavor great for salads.",
+    "image": "/images/hemp.jpg",
+    "inStock": false,
+    "featured": false
+  },
+  {
+    "id": 5,
+    "name": "Organic Raw Cacao Powder",
+    "price": 11.99,
+    "category": "powders",
+    "description": "Pure chocolate flavor packed with antioxidants. Perfect for healthy desserts.",
+    "image": "/images/cacao.jpg",
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": 6,
+    "name": "Organic Goji Berries",
+    "price": 16.99,
+    "category": "berries",
+    "description": "Ancient Chinese superfruit high in antioxidants and vitamin C.",
+    "image": "/images/goji.jpg",
+    "inStock": true,
+    "featured": false
+  },
+  {
+    "id": 7,
+    "name": "Organic Wheatgrass Powder",
+    "price": 13.99,
+    "category": "powders",
+    "description": "Detoxifying green superfood rich in chlorophyll and nutrients.",
+    "image": "/images/wheatgrass.jpg",
+    "inStock": true,
+    "featured": false
+  },
+  {
+    "id": 8,
+    "name": "Organic Turmeric Powder",
+    "price": 8.99,
+    "category": "powders",
+    "description": "Anti-inflammatory spice with powerful health benefits. Great for golden milk.",
+    "image": "/images/turmeric.jpg",
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": 9,
+    "name": "Organic Acai Berry Powder",
+    "price": 19.99,
+    "category": "powders",
+    "description": "Amazonian superfruit powder high in antioxidants. Perfect for acai bowls.",
+    "image": "/images/acai.jpg",
+    "inStock": true,
+    "featured": false
+  },
+  {
+    "id": 10,
+    "name": "Organic Chlorella Powder",
+    "price": 17.99,
+    "category": "powders",
+    "description": "Single-celled algae superfood for detox and immune support.",
+    "image": "/images/chlorella.jpg",
+    "inStock": true,
+    "featured": false
+  }
+] 

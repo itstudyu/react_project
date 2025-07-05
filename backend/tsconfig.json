@@ -1,0 +1,32 @@
+{
+  "compilerOptions": {
+    // Tells TypeScript which version of JavaScript to compile to
+    "target": "ES2020",
+
+    // Uses modern module system
+    "module": "commonjs",
+
+    // Where to output compiled JavaScript files
+    "outDir": "./dist",
+
+    // Where TypeScript files are located
+    "rootDir": "./src",
+
+    // Enables all strict type checking options
+    "strict": true,
+
+    // Allows default imports from modules with no default export
+    "esModuleInterop": true,
+
+    // Skip type checking of declaration files
+    "skipLibCheck": true,
+
+    // Ensures consistent file name casing
+    "forceConsistentCasingInFileNames": true,
+
+    // Allows importing JSON files
+    "resolveJsonModule": true
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", "dist"]
+}

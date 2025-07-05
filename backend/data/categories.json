@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "powders",
+    "displayName": "Superfood Powders",
+    "description": "Nutrient-dense powders for smoothies, drinks, and recipes"
+  },
+  {
+    "id": 2,
+    "name": "seeds",
+    "displayName": "Seeds & Nuts",
+    "description": "Protein-rich seeds and nuts for healthy snacking"
+  },
+  {
+    "id": 3,
+    "name": "berries",
+    "displayName": "Dried Berries",
+    "description": "Antioxidant-rich dried fruits and berries"
+  }
+] 
